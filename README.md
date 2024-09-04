@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @san-jay29
-- 👀 I’m interested in Nothing
-- 🌱 I’m currently learning to code
-- 📫 How to reach me-IG-san_jay_29
-- 😄 Pronouns: He
+  
 
 
 <!---
